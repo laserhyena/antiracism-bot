@@ -1,0 +1,5 @@
+local.py
+.idea
+venv
+*.pyc
+mentions.txt
